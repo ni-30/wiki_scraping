@@ -1,4 +1,5 @@
-# wikipedia webpage crawler
+### wikipedia crawler
 
-command to run BollywoodSpider.py:
+
+# command to run BollywoodSpider.py:
      $ scrapy crawl bollywood
